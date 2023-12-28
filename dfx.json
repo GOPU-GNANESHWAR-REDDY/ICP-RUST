@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "canisters": {
+    "social_groups_backend": {
+      "type": "rust",
+      "package": "social_groups_backend",
+      "candid": "src/social_warriors_backend/social_groups.did"
+    }
+  },
+  "output_env_file": ".env"
+}
